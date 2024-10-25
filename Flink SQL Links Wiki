@@ -1,0 +1,51 @@
+Here are a few presentations that can serve as a self-paced Apache Flink Developer's training course
+[ Official Ververica Free Courses: ] [ Intro ] [ State ] [ Time ] [ SQL ] [ Wrap-up ] [ Videos Ververica Platform ] [ Videos Flink ] [ Code examples ]
+
+
+Official Ververica Free Courses:
+Introduction to Stream Processing and Apache Flink
+Introduction to Apache Flink SQL
+BUILDING APACHE FLINK® APPLICATIONS IN JAVA
+APACHE FLINK® 101
+
+Other related courses
+Intro
+Intro to Flink
+Basic Transformations
+The Flink Runtime
+State
+Stateful Stream Processing
+Fault Tolerance
+State Backends
+Time
+Intro to Event Time and Watermarks
+Watermarking: the Gory Details
+Process Functions and Timers
+
+SQL
+Intro to Flink SQL - https://www.ververica.com/e3t/Ctc/RG+113/czclX04/VWzsBr2_9kdTW3Kwtdt6C_3KtW24t7JB4ZRY6RN6WXH-y3q3pBV1-WJV7CgV-qW55grLc66h-GlMl_sjQw1wdKW3TljWv8ls5jXW8bTlkV5v6lXYVDclGz4TF8W1W2ly-QF2rDB4RW7R_3bd7gRnWQW2Dsgk2413y9hW7ztZyp67FbzMN5MmLlzP7gdYW4ytHb85X5k5XVG6Nmj2jVl_sW72Rsqw5vXt-NW4Yj9Yq4QSVFgW2_x14y7bp8BdMfGrVSLyVnKW72R1RK71CGpmW3b6vrM5pX8z6W2T9ZCD4Tf7LyW6gvMZM6Z1nZtV-yNl37k_fZLW4K9M7Q7gxs1fW1dzzzP1-Jd0yW6YKCY38hXhRmW9jWqPq8f-bVHVZmzPr89G-bSW4XncQD1Sfvj9W9kClqR5WkwVvW7wVzmc2HyPHvW1vF-yB2Y2hnX3n981
+Dynamic Tables - https://www.ververica.com/e3t/Ctc/RG+113/czclX04/VWzsBr2_9kdTW3Kwtdt6C_3KtW24t7JB4ZRY6RN6WXH-y3q3pBV1-WJV7CgS2kW8zmwg64rwQdtW712CfS4yFqwXN5HRHgwQGnk-W9jsmx55JMYCTW4fqdps8h-Z0qW13hjl41M2HLkW7WZtT286KYppW1PPsMf3lLCX8VFYN-L7zG-VxW546vY_1nJ3zCW2bPZWX4T0gPlW1QnpyV4N9QrtW8rjQk92R6T60W8_pJxT27HM65N4z0rkN-5GdPM-gsqqf9dY1W5tSvzr8jvD5WN5Q_CkDt-zbkW7VjwD63bMMZjW8kgynR7phs8LV9KHdm7D9KL_W4WNy2j5n3XYfW6MsVzQ3KYlH4W6JRL7F8NYFqpW2_DLP43DFrnCW1QJTZz2CY4MhW4PQSCp91Mv0HW3F8mlj4s-5nzW8nVXN14yglnNW5r-NqQ6sQr3N3jwc1
+Queries and Time - https://www.ververica.com/e3t/Ctc/RG+113/czclX04/VWzsBr2_9kdTW3Kwtdt6C_3KtW24t7JB4ZRY6RN6WXH-y3q3pBV1-WJV7CgYwxN23XT4bYxCqlW34WmD_7t_zYpW8MbyLj4NwTF6W63Jv4w7DdbMYW43hBCn6tM1NLW5HmwfH3TtnJWW3WlnBN5m_0sqW3-3LPH3rgWFXW7WXqj14CYqLQW45l64H5Z2CjqW9d72483cKsWTW4k0l3y2_P-zfW1Hkclg5gcnLTW8kMBZy8cqXghN6pRdbgN5_T8W7RQntw7mZwDTW1HJ6qg1yzRT0W5Zr28L3d7H8vW2ZdGCy1Jz4DZVZnWnd7Fdt5GW9jhQSF4t2GhWW5CV0fs1r9_14W8FRT6h2HY28TN6tvRmczs_dVW3wH7K68NmmVPW6_vP_B7m9Ch7W8D0-q92VxCD7W412YWC1FjzCBW2WffkB1wsRtQW3-GLk-628Qtg3q7N1
+Joining Dynamic Tables - https://www.ververica.com/e3t/Ctc/RG+113/czclX04/VWzsBr2_9kdTW3Kwtdt6C_3KtW24t7JB4ZRY6RN6WXH-y3q3pBV1-WJV7CgC3GW4CPtM92x1mJjW3L4H7N6mmY11W4XL4pY7b1l8_W9jTgdS4k3jK0W3yrZx93K6-P4W7t-mTF5-25V5W7nZp6s3-x3pHW5t2qYZ70Pw3lW2tpyKT5jdbJ0W8P-4Q25-QWZ_W60rFfN7-fc8_W16s-n97gSnBCW5V61qs7GTQRBW43F39748s5N8W7zLgF_1zwjZ2W61dvJ88fB_c9W5SzXBd4q504rW1DS7zT2TGPmSV_MpNn5Mhqg_W2kDZ9K3Sy0V7W5YTlTC5RjdVxW8-mGg04-C3f0N7wRRq94KXxFW4FLY7f2Bb4q0W8NWZ3X1vQnpCW5Z1cN-5JsyFCV6_hGD43swJlW7HDMZR4ncvGCW27pxTJ5STY1tW2CdpRf9hxwgV36Yh1
+
+Wrap-up
+
+Alternatives for Windowing - https://www.ververica.com/e3t/Ctc/RG+113/czclX04/VWzsBr2_9kdTW3Kwtdt6C_3KtW24t7JB4ZRY6RN6WXH-y3q3pBV1-WJV7CgVPhN7nqhfVvgqn9W7mM6WM7p8ZK-W1RCBbS2tm4-GW1YRNsr90pFN5VWbP-h42JDjtW4ZDYyq7JDP08VtbLcy4M88HkW8dDzWn5BPTzZW7hPtgM4bVPXHW2NlqZC4rQ1-1N7yxN5MS2zQbN6NyfhBBQrdxW4dR56W7q9z6kW5Bxt9v2jyRTgV9RsJd6rvWBWW2638SC8nj676W2s_4GP1frlHdW2PztzP2jGTt0W95-4wL47gYbhW4twYk02sV4rGW4VNsfj4zlDKBW1XQ3K039dZ78W3-35qs3PhLtLW3GNwQ84v4SqhW7B9bKV7qXB26N4rkL03k8V9gW7mG_RV5p5fhqW62-bzF7BxpsdW87b2td3CRQR2W5Svcth8r1_RC32SJ1
+Serialization
+Connectors
+Working with Kafka
+Testing
+Videos Ververica Platform
+Installation
+
+Ververica free courses ( you need to enroll ) https://www.ververica.com/academy#openings
+Videos Flink
+Flink course: https://developer.confluent.io/courses/apache-flink/intro/
+
+Code examples
+https://github.com/apache/flink-training
+https://github.com/immerok/recipes 
+recipes.zip
+Local Ververica playground - https://github.com/ververica/ververica-platform-playground
+Flink CDC connectors - https://github.com/ververica/flink-cdc-connectors
+Flink SQL cookbook - https://github.com/ververica/flink-sql-cookbook
